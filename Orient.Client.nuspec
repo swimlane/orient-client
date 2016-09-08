@@ -4,10 +4,10 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>OrientDB Community</authors>
+    <owners>OrientDB Community</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>OrientDB C# Client</description>
     <releaseNotes>OrientDB C# Client</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>OrientDB Client</tags>
